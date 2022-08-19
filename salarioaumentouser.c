@@ -22,6 +22,6 @@ main() {
 	novo_salario = salario_base+valor_aumento;
 	
 	printf ("O valor do aumento = %.2f\n", valor_aumento);
-	printf ("O salário com aumento = %.2f", novo_salario);
+	printf ("O salági rio com aumento = %.2f", novo_salario);
 	
 }
